@@ -5,6 +5,6 @@ The function takes a list of 9 digits as input, converts it into a 3x3 Numpy arr
 
 The repository includes:
 
-mean_var_std.py: The main script containing the calculate() function.
-main.py: A script to test the function during development.
-test_module.py: Unit tests for the project.
+* mean_var_std.py: The main script containing the calculate() function.
+* main.py: A script to test the function during development.
+* test_module.py: Unit tests for the project.
